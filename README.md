@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AmberShortell
+- 👋 Hi, I’m @AmberShortell!
 - 👀 I’m interested in becoming better at coding.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on nothing so far.
+- 🌱 I’m currently learning CSS for The Odin Project.
+- 💞️ I’m looking to collaborate in the future, but I'm not ready to collaborate just yet.
 - 📫 How to reach me: Send ma a message!
 
 <!---
